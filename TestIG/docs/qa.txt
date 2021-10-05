@@ -1,0 +1,15 @@
+﻿TestIG : Validation Results
+=========================================
+
+err = 0, warn = 0, info = 0
+IG Publisher Version: 1.1.81
+Generated Mon Oct 04 21:52:48 EDT 2021. FHIR version 4.0.1 for test.ig#0.1.0 (canonical = https://verily-src.github.io/test-ig)
+ Build Errors : 0 / 0 / 0
+ /usr/local/google/home/heming/PlayGround/fhir/sushi/test-ig/TestIG/fsh-generated/resources/ImplementationGuide-test.ig : 0 / 0 / 1
+ /usr/local/google/home/heming/PlayGround/fhir/sushi/test-ig/TestIG/fsh-generated/resources/Patient-PatientExample : 0 / 0 / 1
+ /usr/local/google/home/heming/PlayGround/fhir/sushi/test-ig/TestIG/fsh-generated/resources/StructureDefinition-MyPatient : 0 / 0 / 1
+</table>
+== n/a ==
+== fsh-generated/resources/ImplementationGuide-test.ig.json ==
+== fsh-generated/resources/Patient-PatientExample.json ==
+== fsh-generated/resources/StructureDefinition-MyPatient.json ==

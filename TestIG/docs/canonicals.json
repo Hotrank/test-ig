@@ -1,0 +1,16 @@
+[
+  {
+    "id": "test.ig",
+    "type": "ImplementationGuide",
+    "url": "https://verily-src.github.io/test-ig/ImplementationGuide/test.ig",
+    "version": "0.1.0",
+    "name": "TestIG"
+  },
+  {
+    "id": "MyPatient",
+    "type": "StructureDefinition",
+    "url": "https://verily-src.github.io/test-ig/StructureDefinition/MyPatient",
+    "version": "0.1.0",
+    "name": "MyPatient"
+  }
+]
